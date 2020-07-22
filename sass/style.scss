@@ -8,7 +8,7 @@ $grid-gutter-width: 40px !default;
 $border-radius-base:  4px !default;
 $padding-base-vertical: 14px !default;
 
-$brand-primary: #FF9000 !default;
+$brand-primary: #000000 !default;
 
 $brand-white: #fff;
 $brand-black: #000;
@@ -153,7 +153,7 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6, figure {
-	color: $brand-black;
+	color: $brand-white;
 	font-family: $font-primary;
 	font-weight: 400;
 	margin: 0 0 20px 0;
